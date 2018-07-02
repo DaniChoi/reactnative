@@ -1,0 +1,3 @@
+rootProject.name = 'CustomButtons'
+
+include ':app'
